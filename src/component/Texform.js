@@ -69,7 +69,7 @@ export default function Texform(props) {
     let capWord;
 
     words.forEach(function (element) {
-      if (element[0] != undefined) {
+      if (element[0] !== undefined) {
         capWord = element[0].toUpperCase() + element.slice(1).toLowerCase();
         joinedWords += capWord + " ";
       }

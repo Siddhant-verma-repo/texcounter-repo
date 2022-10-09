@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+
 import "./App.css";
 import Navbar from "./component/Navbar";
 import Texform from "./component/Texform";
@@ -74,7 +74,7 @@ const App = () => {
           <Routes>
             <Route exact path="/about" element={<About />} >
             </Route>
-            <Route exact path="/"
+            <Route exact path="/textform"
               element=
               {<Texform heading="Enter text to analyze" title="Write Text" Mode={Mode} showalert={showalert} />}
             >

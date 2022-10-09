@@ -1,3 +1,9 @@
+# Link for this project in web
+https://siddhant-verma-repo.github.io/texcounter-repo/
+1. After going on the link just click on the textcounter heading Because of some issues of router that became like that...I will fix this in the future for now I am focusing on my ongoing project
+ 
+2. You can use this link anywhere as long as you have internet 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
